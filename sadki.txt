@@ -5,3 +5,4 @@ git remote add origin https://github.com/YuZuuuuuuuu/TP-GIT.git
 git add *
 git commit -m "first commit"
 git push origin master
+git log
