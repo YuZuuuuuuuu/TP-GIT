@@ -7,3 +7,7 @@ git commit -m "first commit"
 git push origin master
 git log
 git merge projetv1
+git branch nassim
+git branch
+git status
+git checkout nassim
